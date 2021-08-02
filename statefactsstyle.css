@@ -46,6 +46,7 @@ body {
   width: 50%;
   margin-bottom: 15px;
   justify-content: center;
+  display: inline-block;
 }
 
 .sectionsep {
